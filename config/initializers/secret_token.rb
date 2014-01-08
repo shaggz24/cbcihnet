@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Cbcihnet::Application.config.secret_key_base = '4f4ecc86674a94b6943e5e1e4ae80c3ae974013a36559fdd41192f4f9ad66656cb64c90eef4706b0a8419a1586551fc7126ff9670644ba538f58b5b070265761'
+Pinteresting::Application.config.secret_key_base = '8c99b5a540b1ae7b87084637d50dbef0147b3dfa5ae2cc7b8085cd050585eb8134714386afb1f7375b06fee33f061dbf271a63ddfb38d19b8ee5fb1215cff278'
